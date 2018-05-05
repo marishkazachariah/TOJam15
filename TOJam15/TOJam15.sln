@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOJam15", "TOJam15.csproj", "{8CB6EB7B-A7AD-D6C7-E330-E43C944910C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOJam15.Editor", "TOJam15.Editor.csproj", "{EBD6D27A-0991-AC7C-1268-F94FE70135D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{8CB6EB7B-A7AD-D6C7-E330-E43C944910C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB6EB7B-A7AD-D6C7-E330-E43C944910C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB6EB7B-A7AD-D6C7-E330-E43C944910C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD6D27A-0991-AC7C-1268-F94FE70135D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD6D27A-0991-AC7C-1268-F94FE70135D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD6D27A-0991-AC7C-1268-F94FE70135D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD6D27A-0991-AC7C-1268-F94FE70135D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
