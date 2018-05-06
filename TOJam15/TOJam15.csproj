@@ -306,10 +306,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\Bone.cs" />
+    <Compile Include="Assets\_Scripts\CameraController.cs" />
+    <Compile Include="Assets\_Scripts\Controller.cs" />
+    <Compile Include="Assets\_Scripts\fpsdisplay.cs" />
+    <Compile Include="Assets\_Scripts\Game.cs" />
+    <Compile Include="Assets\_Scripts\mainGUI.cs" />
+    <Compile Include="Assets\_Scripts\Player.cs" />
+    <Compile Include="Assets\_Scripts\Slime.cs" />
+    <Compile Include="Assets\_Scripts\TouchController.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\Scripts\GameOver.cs" />
     <Compile Include="Assets\Scripts\PaddleLeft.cs" />
     <Compile Include="Assets\Scripts\PaddleRight.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\RandomTextGenerator.cs" />
+    <Compile Include="Assets\Scripts\Wobble.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Minimalist Free\ReadMe.txt" />
@@ -317,6 +329,7 @@
     <None Include="Assets\Minimalist Free\Shader\Minimalist Simple.shader" />
     <None Include="Assets\Minimalist Free\Shader\Minimalist Standard (2ColorGradient).shader" />
     <None Include="Assets\Minimalist Free\Shader\Sky.shader" />
+    <None Include="Assets\SpecialFX\Liquid.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

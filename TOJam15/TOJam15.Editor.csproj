@@ -323,6 +323,7 @@
     <None Include="Assets\Minimalist Free\Shader\Minimalist Simple.shader" />
     <None Include="Assets\Minimalist Free\Shader\Minimalist Standard (2ColorGradient).shader" />
     <None Include="Assets\Minimalist Free\Shader\Sky.shader" />
+    <None Include="Assets\SpecialFX\Liquid.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
