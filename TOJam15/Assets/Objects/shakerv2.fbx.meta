@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ddb95b665fa63114a91d75f107e5245b
+timeCreated: 1525623070
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Array
+    100002: Array_1
+    100004: Cylinder
+    100006: Cylinder_1
+    100008: Cylinder_2
+    100010: Disc
+    100012: Disc_1
+    100014: Disc_1_2
+    100016: Disc_2
+    100018: Disc_2_2
+    100020: Disc_2_3
+    100022: Disc_3
+    100024: Disc_3_2
+    100026: Disc_4
+    100028: Disc_4_2
+    100030: Disc_5
+    100032: Disc_5_2
+    100034: Disc_6
+    100036: Disc_7
+    100038: Disc_8
+    100040: Oil_Tank
+    100042: shaker_blue_label
+    100044: shaker_innner_glass
+    100046: shaker_outer_glass
+    100048: //RootNode
+    400000: Array
+    400002: Array_1
+    400004: Cylinder
+    400006: Cylinder_1
+    400008: Cylinder_2
+    400010: Disc
+    400012: Disc_1
+    400014: Disc_1_2
+    400016: Disc_2
+    400018: Disc_2_2
+    400020: Disc_2_3
+    400022: Disc_3
+    400024: Disc_3_2
+    400026: Disc_4
+    400028: Disc_4_2
+    400030: Disc_5
+    400032: Disc_5_2
+    400034: Disc_6
+    400036: Disc_7
+    400038: Disc_8
+    400040: Oil_Tank
+    400042: shaker_blue_label
+    400044: shaker_innner_glass
+    400046: shaker_outer_glass
+    400048: //RootNode
+    2100000: No Name
+    2300000: Cylinder
+    2300002: Cylinder_1
+    2300004: Cylinder_2
+    2300006: Disc_1
+    2300008: Disc_1_2
+    2300010: Disc_2
+    2300012: Disc_2_2
+    2300014: Disc_3
+    2300016: Disc_3_2
+    2300018: Disc_4
+    2300020: Disc_4_2
+    2300022: Disc_5
+    2300024: Disc_5_2
+    2300026: Disc_6
+    2300028: Disc_7
+    2300030: Disc_8
+    2300032: Oil_Tank
+    2300034: shaker_blue_label
+    2300036: shaker_innner_glass
+    2300038: shaker_outer_glass
+    3300000: Cylinder
+    3300002: Cylinder_1
+    3300004: Cylinder_2
+    3300006: Disc_1
+    3300008: Disc_1_2
+    3300010: Disc_2
+    3300012: Disc_2_2
+    3300014: Disc_3
+    3300016: Disc_3_2
+    3300018: Disc_4
+    3300020: Disc_4_2
+    3300022: Disc_5
+    3300024: Disc_5_2
+    3300026: Disc_6
+    3300028: Disc_7
+    3300030: Disc_8
+    3300032: Oil_Tank
+    3300034: shaker_blue_label
+    3300036: shaker_innner_glass
+    3300038: shaker_outer_glass
+    4300000: shaker_innner_glass
+    4300002: shaker_blue_label
+    4300004: Disc_5
+    4300006: Disc_4
+    4300008: Disc_3
+    4300010: Disc_2
+    4300012: Disc_1
+    4300014: Disc_8
+    4300016: Disc_7
+    4300018: Disc_6
+    4300020: Disc_5_2
+    4300022: Disc_4_2
+    4300024: Disc_3_2
+    4300026: Disc_2_2
+    4300028: Disc_1_2
+    4300030: Cylinder_2
+    4300032: Cylinder
+    4300034: Cylinder_1
+    4300036: Oil_Tank
+    4300038: shaker_outer_glass
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

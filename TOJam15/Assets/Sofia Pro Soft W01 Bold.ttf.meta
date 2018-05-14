@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a31463f7256dc694387f625ade4d31c9
+timeCreated: 1525633079
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SofiaProSoftW01-Bold
+  fontNames:
+  - SofiaProSoftW01-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

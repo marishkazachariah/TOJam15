@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Liquid
-  m_Shader: {fileID: 4800000, guid: 9ccfd894b897e664eae9dcfb1d99d768, type: 3}
+  m_Shader: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -77,9 +77,9 @@ Material:
     - _WobbleZ: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.78676474, g: 0.52951026, b: 0.069420435, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 0.9558824, g: 0.7502381, b: 0.30222753, a: 1}
     - _RimColor: {r: 1, g: 0.44852942, b: 0.44852942, a: 1}
-    - _Tint: {r: 0.64705884, g: 0.44178498, b: 0, a: 1}
-    - _TopColor: {r: 0.77205884, g: 0.5520014, b: 0.07379972, a: 1}
+    - _Tint: {r: 0.7843138, g: 0.5058824, b: 0.35686275, a: 1}
+    - _TopColor: {r: 0.89705884, g: 0.6435659, b: 0.5078936, a: 1}

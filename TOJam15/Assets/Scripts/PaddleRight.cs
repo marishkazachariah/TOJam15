@@ -10,6 +10,7 @@ public class PaddleRight : MonoBehaviour
     public float targetVel = 400;
     public float power = 3000;
     public string inputKeyName = "right";
+    public AudioSource SpatulaSound;
 
     // Use this for initialization
     void Start()
@@ -26,6 +27,9 @@ public class PaddleRight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        //RaycastHit hit;
+
         if (Input.GetKey(inputKeyName))
         {
             //Debug.Log ("Space Was Pressed");
@@ -34,6 +38,7 @@ public class PaddleRight : MonoBehaviour
             motor.freeSpin = false;
             hinge.motor = motor;
             hinge.useMotor = true;
+            //SpatulaSound.Play();
         }
         else
         {
@@ -43,6 +48,26 @@ public class PaddleRight : MonoBehaviour
             hinge.motor = motor;
             hinge.useMotor = true;
         }
-
+        //if (Input.GetMouseButtonDown(0))
+        //{
+        //    if (Physics.Raycast(ray, out hit) && hit.collider.gameObject.CompareTag("paddleright"))
+        //    {
+        //        //Debug.Log ("Space Was Pressed");
+        //        motor.force = power;
+        //        motor.targetVelocity = targetVel;
+        //        motor.freeSpin = false;
+        //        hinge.motor = motor;
+        //        hinge.useMotor = true;
+        //        //SpatulaSound.Play();
+        //    }
+        //}
+        //else
+        //{
+        //    motor.force = 0;
+        //    motor.targetVelocity = targetVel;
+        //    motor.freeSpin = false;
+        //    hinge.motor = motor;
+        //    hinge.useMotor = true;
+        //}
     }
 }
